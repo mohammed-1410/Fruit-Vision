@@ -1,0 +1,1 @@
+A vision-guided robotic system using ROS2, MoveIt2, OpenCV, and a Franka Emika Panda arm to detect, classify, and sort strawberries by ripeness. Designed for agricultural and industrial automation, it integrates real-time computer vision with autonomous robotic motion planning.
